@@ -1,3 +1,4 @@
+//frame for holding the panel that holds the snake game
 import javax.swing.*;
 
 public class GameFrame extends JFrame {
